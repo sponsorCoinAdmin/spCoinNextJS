@@ -123,7 +123,7 @@ export default function PriceView({
 
   return (
     <form>
-      <h1 className="text-3xl font-bold mb-4">0x Swap API Demo</h1>
+      <h1 className="text-3xl font-bold mb-4">Sponsor Coin Swap API Demo</h1>
       <p className="text-md mb-2">
         Check out the <a href="https://0x.org/docs/">0x Docs</a> and{" "}
         <a href="https://0x.org/docs/">Code</a> to build your own
